@@ -1,0 +1,35 @@
+# Full Stack Open – Part 0: Fundamentals of Web Apps
+
+This repository contains my solutions for **Part 0** of the **Full Stack Open** course by the University of Helsinki.
+
+## 📝 About
+
+Since I already have prior knowledge of **HTML, CSS, and JavaScript**, I was able to complete most of Part 0 relatively quickly. Although many of the concepts were already familiar to me, this section served as a valuable refresher on the fundamentals of web applications, including the client-server model, HTTP requests, and the differences between traditional web applications and Single Page Applications (SPAs).
+
+## 📂 Exercises
+
+### 0.4 – New Note Diagram
+A Mermaid sequence diagram illustrating what happens when a user creates a new note using the traditional Notes application.
+
+### 0.5 – Single Page App Diagram
+A Mermaid sequence diagram showing the events that occur when a user opens the Single Page Application (SPA) version of the Notes application.
+
+### 0.6 – New Note in Single Page App Diagram
+A Mermaid sequence diagram demonstrating how a new note is created in the SPA version without reloading the page.
+
+## 🛠️ Technologies Used
+
+- Mermaid
+- Markdown
+- Git
+- GitHub
+
+## 📖 Course
+
+These exercises are part of the **Full Stack Open** course offered by the **University of Helsinki**.
+
+https://fullstackopen.com/en/
+
+## 📄 License
+
+This repository is for educational purposes only.
