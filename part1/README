@@ -1,0 +1,29 @@
+# Full Stack Open - Part 1
+
+This repository contains my solutions for Full Stack Open Part 1.
+
+## Exercises
+
+### Courseinfo
+- Practice with React components
+- Props
+- Rendering lists
+- Component structure
+
+### Unicafe
+- useState
+- Event handling
+- Conditional rendering
+- Passing props between components
+
+### Anecdotes
+- State management
+- Arrays and objects
+- Updating state
+- Event handlers
+
+## Technologies
+
+- React
+- JavaScript
+- Vite
