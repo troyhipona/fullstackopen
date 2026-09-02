@@ -1,0 +1,37 @@
+DELETE http://localhost:3001/api/persons/1
+
+###
+
+
+GET http://localhost:3001/api/persons
+
+###
+// Test a valid person
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Troy",
+  "number": "123456789"
+}
+
+
+###
+
+// Test mssing name
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "number": "123456789"
+}
+
+###
+// Test if duplicate name
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Troy",
+  "number": "999999999"
+}
