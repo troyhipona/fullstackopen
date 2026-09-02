@@ -1,6 +1,6 @@
 # Phonebook backend
 
-[Online phonebook backend](https://fullstackopen-nvsg.onrender.com/api/persons)
+[Online phonebook application](https://fullstackopen-nvsg.onrender.com)
 
 ## Local development
 
