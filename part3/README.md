@@ -1,6 +1,6 @@
 # Phonebook backend
 
-The deployed application URL will be added here after deployment.
+[Online phonebook backend](https://fullstackopen-nvsg.onrender.com/api/persons)
 
 ## Local development
 
